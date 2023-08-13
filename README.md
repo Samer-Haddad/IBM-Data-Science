@@ -58,5 +58,5 @@ It includes a series of hands-on labs in the IBM Cloud and capstone projects tha
 ## 🏆 Certificate
 
 <p align="middle">
-  <a href="https://coursera.org/share/829722544c0f5fb5e23c4d7509508b8b"><img src="https://github.com/Samer-Haddad/IBM-Data-Science/Certificate/Certificate.png" height="400"></a>
+  <a href="https://coursera.org/share/829722544c0f5fb5e23c4d7509508b8b"><img src="https://github.com/Samer-Haddad/IBM-Data-Science/blob/main/Certificate/Certificate.png" height="400"></a>
 </p>
