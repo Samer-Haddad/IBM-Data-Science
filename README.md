@@ -1,10 +1,9 @@
-# IBM-Data-Science
-IBM Data Science Professional Certificate
-
 ![ViewCount](https://views.whatilearened.today/views/github/Samer-Haddad/IBM-Data-Science.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/Samer-Haddad/IBM-Data-Science?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/Samer-Haddad/IBM-Data-Science?style=flat)
 
+# IBM-Data-Science
+IBM Data Science Professional Certificate
 
 ## 📄 About
 The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a> consists of 10 online courses with a strong emphasis on applied learning.<br>
